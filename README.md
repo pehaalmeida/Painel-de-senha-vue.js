@@ -2,9 +2,12 @@
 
 Este projeto é um **painel de senhas interativo** desenvolvido com **Vue 3**, **Vue Router**, **Pinia** e **Tailwind CSS**. Ele permite a exibição e controle de senhas (como em ambientes de atendimento ao público) de forma moderna, rápida e responsiva.
 
+📢 **Destaque:** o sistema conta com **chamada de senhas por voz**, proporcionando maior acessibilidade e profissionalismo no atendimento.
+
 ## ✨ Funcionalidades
 
 - Painel visual dinâmico para exibição de senhas
+- Chamada de senhas com voz (áudio automático)
 - Interface moderna com Tailwind CSS
 - Navegação por rotas com Vue Router
 - Gerenciamento de estado centralizado com Pinia
