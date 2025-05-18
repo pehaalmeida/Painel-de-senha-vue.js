@@ -75,4 +75,4 @@ Este projeto está licenciado sob a **Licença MIT**. Consulte o arquivo `LICENS
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome]. Sinta-se à vontade para entrar em contato ou contribuir!
+Desenvolvido por **Pedro Augusto**. Sinta-se à vontade para entrar em contato ou contribuir!
