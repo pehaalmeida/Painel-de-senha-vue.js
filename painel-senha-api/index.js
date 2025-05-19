@@ -66,7 +66,7 @@ app.get('/historico', (req, res) => {
     SELECT * FROM senhas
     WHERE chamada = 1
     ORDER BY id DESC
-    LIMIT 5
+    LIMIT 20
   `, (err, rows) => {
     if (err) return res.status(500).send(err.message)
     res.json(rows)
