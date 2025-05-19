@@ -48,7 +48,7 @@
       <div class="md:col-span-2 h-full">
         <div class="w-full h-full bg-black rounded shadow overflow-hidden">
           <video autoplay loop muted class="w-full h-full object-cover rounded">
-            <source src="/propaganda.mp4" type="video/mp4" />
+            <!--<source src="/propaganda.mp4" type="video/mp4" /> -->
             Seu navegador não suporta vídeo.
           </video>
         </div>
