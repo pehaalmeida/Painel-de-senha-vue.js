@@ -26,13 +26,13 @@ Este projeto é um **painel de senhas interativo** desenvolvido com **Vue 3**, *
 ## 🪟 Telas Do Sistemas
 
 Tela De Retirada de Senha <br>
-<img src="img-painel-cliente.jpeg" />
+<img src="fotos-sistema/img-painel-cliente.jpeg" width="500px" />
 
 Tela De Chamar Senha <br>
-<img src="img-painel-funcionario.jpeg" />
+<img src="fotos-sistema/img-painel-funcionario.jpeg" width="500px" />
 
 Tela Do Painel De Senha <br>
-<img src="img-painel-senha.jpeg" />
+<img src="fotos-sistema/img-painel-senha.jpeg" width="500px"/>
 
 ## 📦 Instalação
 
