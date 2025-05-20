@@ -1,4 +1,4 @@
-# Painel de Senha - Vue.js
+ # Painel de Senha - Vue.js
 
 Este projeto é um **painel de senhas interativo** desenvolvido com **Vue 3**, **Vue Router**, **Pinia** e **Tailwind CSS**. Ele permite a exibição e controle de senhas (como em ambientes de atendimento ao público) de forma moderna, rápida e responsiva.
 
@@ -26,13 +26,13 @@ Este projeto é um **painel de senhas interativo** desenvolvido com **Vue 3**, *
 ## 🪟 Telas Do Sistemas
 
 Tela De Retirada de Senha <br>
-<a href="https://github.com/pehaalmeida"><img src="img-painel-cliente.jpeg" /></a>
+<img src="img-painel-cliente.jpeg" />
 
 Tela De Chamar Senha <br>
-<a href="https://github.com/pehaalmeida"><img src="img-painel-funcionario.jpeg" /></a>
+<img src="img-painel-funcionario.jpeg" />
 
 Tela Do Painel De Senha <br>
-<a href="https://github.com/pehaalmeida"><img src="img-painel-senha.jpeg" /></a>
+<img src="img-painel-senha.jpeg" />
 
 ## 📦 Instalação
 
