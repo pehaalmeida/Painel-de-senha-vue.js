@@ -26,13 +26,13 @@ Este projeto é um **painel de senhas interativo** desenvolvido com **Vue 3**, *
 ## 🪟 Telas Do Sistemas
 
 Tela De Retirada de Senha <br>
-<a href="https://github.com/pehaalmeida"><img src="img-painel-cliente.jpeg" />
+<a href="https://github.com/pehaalmeida"><img src="img-painel-cliente.jpeg" /></a>
 
 Tela De Chamar Senha <br>
-<a href="https://github.com/pehaalmeida"><img src="img-painel-funcionario.jpeg" />
+<a href="https://github.com/pehaalmeida"><img src="img-painel-funcionario.jpeg" /></a>
 
 Tela Do Painel De Senha <br>
-<a href="https://github.com/pehaalmeida"><img src="img-painel-senha.jpeg" />
+<a href="https://github.com/pehaalmeida"><img src="img-painel-senha.jpeg" /></a>
 
 ## 📦 Instalação
 
