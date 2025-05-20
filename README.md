@@ -23,6 +23,17 @@ Este projeto é um **painel de senhas interativo** desenvolvido com **Vue 3**, *
 - [Vite](https://vitejs.dev/)
 - [ESLint + Prettier](https://eslint.org/) para padronização de código
 
+## 🪟 Telas Do Sistemas
+
+Tela De Retirada de Senha
+[]
+
+Tela De Chamar Senha
+[]
+
+Tela Do Painel De Senha
+[]
+
 ## 📦 Instalação
 
 1. Clone o repositório:
