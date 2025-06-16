@@ -89,4 +89,5 @@ Este projeto está licenciado sob a **Licença MIT**. Consulte o arquivo `LICENS
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Pedro Augusto**. Sinta-se à vontade para entrar em contato ou contribuir!
+Feito com muito **café** ☕ e foco por **Pedro Augusto**
+Se quiser bater um papo sobre o projeto ou o código, é só chamar!
